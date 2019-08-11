@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  kwatchman:
+  - apiVersion: v1
+    appVersion: '>=1.0.0'
+    created: "2019-08-10T18:22:29.879109349+01:00"
+    description: Watch for k8s resources changes and trigger handlers
+    digest: bea865d0a03cf831dd4a4fae9f10b543ee692301042d11d7c70251b6bf4d45d0
+    home: https://github.com/snebel29/kwatchman
+    keywords:
+    - kubernetes
+    - monitoring
+    - slack
+    maintainers:
+    - email: nebel.sven@gmail.com
+      name: snebel29
+    name: kwatchman
+    sources:
+    - https://github.com/snebel29/kwatchman
+    urls:
+    - https://snebel29.github.com/snl-charts/kwatchman-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-08-10T18:22:29.878590808+01:00"
