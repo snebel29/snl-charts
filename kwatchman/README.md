@@ -7,7 +7,7 @@ TL;DR;
 ------
 
 ```console
-$ helm repo add snl-charts https://snebel29.github.com/snl-charts
+$ helm repo add snl-charts https://snebel29.github.io/snl-charts
 $ helm install --name kwatchman --namespace=kwatchman snl-charts/kwatchman
 ```
 

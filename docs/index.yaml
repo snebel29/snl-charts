@@ -18,6 +18,6 @@ entries:
     sources:
     - https://github.com/snebel29/kwatchman
     urls:
-    - https://snebel29.github.com/snl-charts/kwatchman-0.1.0.tgz
+    - https://snebel29.github.io/snl-charts/kwatchman-0.1.0.tgz
     version: 0.1.0
 generated: "2019-08-10T18:22:29.878590808+01:00"

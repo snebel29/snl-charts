@@ -10,7 +10,7 @@ create and publish charts like this:
 ```console
 $ helm package kwatchman/
 $ mv kwatchman-0.1.0.tgz docs/
-$ helm repo index docs --url https://snebel29.github.com/snl-charts
+$ helm repo index docs --url https://snebel29.github.io/snl-charts
 $ git add --all
 $ git commit -m "Adding kwatchman"
 $ git push origin master
@@ -20,5 +20,5 @@ $ git push origin master
 From there, You can add it as helm repository and install any of the available charts.
 
 ```console
-$ helm repo add snl-charts https://snebel29.github.com/snl-charts
+$ helm repo add snl-charts https://snebel29.github.io/snl-charts
 ```
