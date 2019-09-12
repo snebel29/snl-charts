@@ -37,7 +37,7 @@ Installing the Chart
 The chart can be installed as follows:
 
 ```console
-$ helm install --name kwatchman --namespace=kwatchman incubator/kwatchman
+$ helm install --name kwatchman --namespace=kwatchman snl-charts/kwatchman
 ```
 
 The command deploys kwatchman on the Kubernetes cluster in the default configuration. The [configuration](#configuration) section lists various ways to override default configuration during deployment.
