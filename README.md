@@ -2,6 +2,10 @@
 
 Hosting for my own helm charts
 
+### Why?
+
+https://suntzusays.dev/2019/08/21/use-github-pages-to-host-your-helm-charts/
+
 ### How It Works
 
 I set up GitHub Pages to point to the `docs` folder. From there, I can
