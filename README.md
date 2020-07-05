@@ -4,7 +4,7 @@ Hosting for my own helm charts
 
 ### Why?
 
-https://suntzusays.dev/2019/08/21/use-github-pages-to-host-your-helm-charts/
+https://snebel29.github.io/2019/08/21/use-github-pages-to-host-your-helm-charts/
 
 ### How It Works
 
